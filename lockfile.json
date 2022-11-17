@@ -186,7 +186,7 @@
     "revision": "0475a5017ad7dc84845d1d33187f2321abcb261d"
   },
   "julia": {
-    "revision": "bedd19f3c3d745c3da8451a35c7bfc5f48d07ee6"
+    "revision": "628713553c42f30595a3b0085bb587e9359b986a"
   },
   "kotlin": {
     "revision": "b953dbdd05257fcb2b64bc4d9c1578fac12e3c28"
@@ -285,7 +285,7 @@
     "revision": "0695cd0760532de7b54f23c667d459b5d1332b44"
   },
   "r": {
-    "revision": "0f4f66e5050037b759ea040dafd596bcdda1de94"
+    "revision": "3bc2af26b7c077f57fff69fccef19579896fa6fe"
   },
   "racket": {
     "revision": "09cb27a06415bce529a26774a842f5a80d50d362"
@@ -297,7 +297,7 @@
     "revision": "e1cfca3c79896ff79842f057ea13e529b66af636"
   },
   "rego": {
-    "revision": "6d70da3a998fd0081efc5d1019c71e74cc1568e9"
+    "revision": "5339370a841962ab2834af4703dbb0f977f8c4fd"
   },
   "rnoweb": {
     "revision": "502c1126dc6777f09af5bef16e72a42f75bd081e"
@@ -342,7 +342,7 @@
     "revision": "52e122ae68b316d3aa960a0a422d3645ba717f42"
   },
   "swift": {
-    "revision": "d7808f030a44dc8768948042baa7566949785e2f"
+    "revision": "25f8de356e3c33099ed691bd3b8b5c0fe3a11e15"
   },
   "sxhkdrc": {
     "revision": "440d5f913d9465c9c776a1bd92334d32febcf065"
